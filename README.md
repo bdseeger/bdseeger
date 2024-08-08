@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
-**bdseeger/bdseeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am an Assistant Professor in the Department of Statistics and Operations Research at the University of North Carolina at Chapel Hill.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Broadly speaking, I do research in stochastic analysis and partial differential equations (PDE). I'm particularly interested in the effects that rough or stochastic noise has on systems coming from the physical or social sciences. 
+
+Some specific topics I'm interested in are
+
+- Interacting agent systems
+- Mean field models in game and control theory
+- Rough paths
+- Nonlinear stochastic partial differential equations
+- Homogenization
+
